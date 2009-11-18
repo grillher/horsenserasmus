@@ -11,6 +11,6 @@
 namespace erasmushorsens {
     
     
-    public partial class Accommodation {
+    public partial class Accomodation {
     }
 }
