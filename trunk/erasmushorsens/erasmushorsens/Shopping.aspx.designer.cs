@@ -8,7 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-
-
-public partial class Pictures {
+namespace erasmushorsens {
+    
+    
+    public partial class Shopping {
+    }
 }

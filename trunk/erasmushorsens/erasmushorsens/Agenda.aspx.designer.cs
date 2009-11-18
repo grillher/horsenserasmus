@@ -8,8 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-
-
-public partial class Agenda
-{
+namespace erasmushorsens {
+    
+    
+    public partial class Agenda {
+    }
 }

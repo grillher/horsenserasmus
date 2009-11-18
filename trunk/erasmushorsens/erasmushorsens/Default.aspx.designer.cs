@@ -11,7 +11,7 @@
 namespace erasmushorsens {
     
     
-    public partial class _Default {
+    public partial class Default {
         
         /// <summary>
         /// form1 control.
