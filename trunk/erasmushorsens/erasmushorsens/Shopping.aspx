@@ -5,7 +5,7 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
     <p>
         Shopping</p>
-    <img alt="" src="" style="height: 60px; width: 175px" /><a 
+    <img alt="" src="" dir="rtl" style="height: 60px; width: 175px" /><a 
         href="../../../../../../Antonio/VIA/DMTI1/flash/shopping.swf">shopping.swf</a>
     <p>
         <br />
