@@ -1,0 +1,47 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="erasmushorsens.MasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title>Untitled Page</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .style1
+        {
+            width: 100%;
+            height: 615px;
+        }
+        .style2
+        {
+            height: 165px;
+        }
+        .style3
+        {
+            width: 171px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+    </div>
+    <table bgcolor="#99CCFF" class="style1">
+        <tr>
+            <td class="style2" colspan="2">
+            </td>
+        </tr>
+        <tr>
+            <td class="style3">
+                &nbsp;</td>
+            <td>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+            </td>
+        </tr>
+    </table>
+    </form>
+</body>
+</html>
