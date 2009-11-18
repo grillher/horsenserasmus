@@ -118,6 +118,8 @@
   <ItemGroup>
     <Content Include="Accomodation.aspx" />
     <Content Include="Agenda.aspx" />
+    <Content Include="App_Data\shopping.gif" />
+    <Content Include="App_Data\shopping.swf" />
     <Content Include="MasterPage.Master" />
     <Content Include="Our_Opinion.aspx" />
     <Content Include="Pictures.aspx" />
@@ -125,7 +127,6 @@
     <Content Include="University.aspx" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="App_Data\" />
     <Folder Include="App_GlobalResources\" />
     <Folder Include="Flash\" />
   </ItemGroup>
