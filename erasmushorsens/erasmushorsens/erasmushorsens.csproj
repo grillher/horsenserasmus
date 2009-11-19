@@ -138,6 +138,7 @@
     <Content Include="Our_Opinion.aspx" />
     <Content Include="Pictures.aspx" />
     <Content Include="Shopping.aspx" />
+    <Content Include="Style\MainStyle.css" />
     <Content Include="University.aspx" />
   </ItemGroup>
   <ItemGroup>
