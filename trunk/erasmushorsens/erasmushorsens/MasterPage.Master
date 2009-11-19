@@ -27,7 +27,7 @@
     <form id="form1" runat="server">
     <div>
     </div>
-    <table bgcolor="#99CCFF" class="style1">
+    <table bgcolor="#000000" class="style1">
         <tr>
             <td class="style2" colspan="2">
             </td>
