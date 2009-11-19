@@ -1,3 +1,10 @@
-﻿body
-{
+﻿/* Main layout ------------------------------    */
+div.Main{  
+  margin: auto;
+  width: 900px;
+  background-color: White;
+}
+
+div.Head{
+  background-image: url("/Imgs/Head.png");
 }
