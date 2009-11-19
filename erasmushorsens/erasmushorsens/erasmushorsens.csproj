@@ -119,6 +119,7 @@
     <Content Include="Accomodation.aspx" />
     <Content Include="Agenda.aspx" />
     <Content Include="App_Data\shopping.gif" />
+    <Content Include="Flash\shopping.swf" />
     <Content Include="Imgs\BoxBottomRoundCorners.png" />
     <Content Include="Imgs\BoxMiddle.png" />
     <Content Include="Imgs\BoxTopRoundCorners.png" />
