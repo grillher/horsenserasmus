@@ -11,6 +11,6 @@
 namespace erasmushorsens {
     
     
-    public partial class Out_Opinion {
+    public partial class Our_Opinion {
     }
 }
