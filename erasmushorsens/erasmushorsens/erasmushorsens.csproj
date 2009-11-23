@@ -116,10 +116,15 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Flash\accommodation.swf" />
     <Content Include="Accomodation.aspx" />
     <Content Include="Agenda.aspx" />
     <Content Include="App_Data\shopping.gif" />
+    <Content Include="Flash\Agenda.swf" />
+    <Content Include="Flash\Our_Opinion.swf" />
+    <Content Include="Flash\Pictures.swf" />
     <Content Include="Flash\shopping.swf" />
+    <Content Include="Flash\University.swf" />
     <Content Include="Imgs\BoxBottomRoundCorners.png" />
     <Content Include="Imgs\BoxMiddle.png" />
     <Content Include="Imgs\BoxTopRoundCorners.png" />
