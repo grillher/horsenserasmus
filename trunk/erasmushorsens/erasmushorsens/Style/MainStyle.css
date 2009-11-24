@@ -63,24 +63,6 @@ div.BradCrumbsDiv {
 }
 
 /* Menu -------------------------------- */
-/*
-.MenuNode {
-  background-image: url('../Imgs/Button.png');  
-  background-position: -15px;
-  background-repeat: no-repeat;
-  position:relative;
-  left: -5px;
-  height:41px;
-  width:126px;
-}
-
-.MenuNodeSelected {  
-}
-
-.TreeView {
-  border:1px solid black;
-}
-*/
 ul.Menu {
   list-style: none;  
 }
@@ -90,7 +72,7 @@ ul.Menu li.MenuNode {
   background-repeat:no-repeat;
   height:41px;
   width:166px;
-  margin-left: -40px;
+  margin: 0px 0px -5px -40px;
   padding: 7px 0px 0px 10px;
 }
 
@@ -99,12 +81,12 @@ ul.Menu li.MenuNodeActive {
   background-repeat:no-repeat;
   height:69px;
   width:166px;
-  margin: -16px 0px -26px -40px;  
+  margin: -22px 0px -32px -40px;  
   padding: 23px 0px 0px 10px;
 }
 
 ul.Menu li a {
   text-decoration: none;
   color: black;
-  font-size: 1.2em;
+  font-size: 1.1em;
 }
