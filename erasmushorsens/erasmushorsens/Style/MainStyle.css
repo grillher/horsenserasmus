@@ -81,7 +81,7 @@ ul.Menu li.MenuNodeActive {
   background-repeat:no-repeat;
   height:69px;
   width:166px;
-  margin: -22px 0px -33px -40px;  
+  margin: -22px 0px -33px -42px;  
   padding: 24px 0px 0px 10px;
 }
 
@@ -89,4 +89,11 @@ ul.Menu li a {
   text-decoration: none;
   color: black;
   font-size: 1.1em;
+}
+
+div.Menu h3 {
+  text-align:center;  
+  margin-left: -4px;
+  font-size: 1.2em;
+  font-color: 
 }
