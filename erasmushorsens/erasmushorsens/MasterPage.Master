@@ -5,9 +5,10 @@
 <html xmlns="http://www.w3.org/1999/xhtml" >
 <head runat="server">
     <title>Untitled Page</title>
+    <link href="Style/MainStyle.css" type="text/css" media="screen" rel="Stylesheet" />
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
-    <style type="text/css">
+<%--    <style type="text/css">
         .style1
         {
             width: 100%;
@@ -21,10 +22,91 @@
         {
             width: 171px;
         }
-    </style>
+    </style>--%>
 </head>
 <body>
-    <form id="form1" runat="server">
+  <div class="Main">
+    <asp:ContentPlaceHolder ID="cplHeadHolder" runat="server">
+      <div class="Head">        
+      </div>
+    </asp:ContentPlaceHolder>
+    
+    <asp:ContentPlaceHolder ID="cplBreadCrumbsHolder" runat="server">
+      <div class="BradCrumbsDiv">
+        <asp:SiteMapPath runat="Server" ID="smpBradCrumbs" CssClass="BradCrumb" />        
+      </div>
+    </asp:ContentPlaceHolder>        
+        
+    <div class="MainContent">
+      <div class="ContentTop"></div>
+      <div class="ContentMiddle">        
+    
+        <asp:ContentPlaceHolder ID="cplMainContent" runat="server">
+          aa<br />
+          aa<br />
+          aa<br />
+          aa<br />
+          aa<br />
+          aa<br />
+          aa<br />
+          aa<br />
+          aa<br />
+          aa<br />
+          aa<br />
+          aa<br />
+          aa<br />
+          aa<br />
+          aa<br />
+          aa<br />
+          aa<br />
+          aa<br />
+          aa<br />
+          aa<br />
+          aa<br />
+          aa<br />
+          aa<br />
+          aa<br />
+          aa<br />
+          aa<br />                      
+    
+        </asp:ContentPlaceHolder>
+      </div>
+      <div class="ContentBottom"></div>
+    </div>    
+    <div class="Menu">      
+      <h2>Content</h2>
+      <ul class="Menu">
+        <li class="MenuNode">
+          <a href="/Default.aspx">Home</a>
+        </li>
+        <li class="MenuNode">
+          <a href="/Agenda.aspx">Agenda</a>
+        </li>
+        <li class="MenuNodeActive">
+          <a href="/Accomodation.aspx">Accomodation</a>
+        </li>
+        <li class="MenuNode">
+          <a href="/Our_Opinion.aspx">Opinions</a>
+        </li>
+        <li class="MenuNode">
+          <a href="/Pictures.aspx">Pictures</a>
+        </li>
+        <li class="MenuNode">
+          <a href="/Shopping.aspx">Shopping</a>
+        </li>
+        <li class="MenuNode">
+          <a href="/University.aspx">University</a>
+        </li>
+      </ul>
+    </div>
+    
+    <asp:ContentPlaceHolder ID="cplFootHolder" runat="server">
+      <div class="Footer">        
+      </div>
+    </asp:ContentPlaceHolder>
+    
+  </div>
+<%--    <form id="form1" runat="server">
     <div>
     </div>
     <table bgcolor="#FFFFFF" class="style1">
@@ -42,6 +124,6 @@
             </td>
         </tr>
     </table>
-    </form>
+    </form>--%>
 </body>
 </html>
