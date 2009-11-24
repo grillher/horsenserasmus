@@ -37,14 +37,15 @@ EN-US">was Eindhoven but there I could not do my final project so the Spanish
          arrived to the Via University we met the person responsible of our 
          accommodation. We spoke with him and he left. Then again we had to wait another 
          two hours. We thought that nobody will come to pick us up, but finally we got 
-         our room and the nightmare was finally over.<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-         </span>That night we were very tired because of the long journey, but we saw a 
-         lot people in the residence listening to music and talking to each other, so we 
-         joined them in the yard of “Kamjatka”, started making friends and having fun.</span><span 
-             lang="EN-US" style="font-size:10.0pt;line-height:115%;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
+         our room and the nightmare was finally over.<span style="mso-spacerun:yes">&nbsp;
+         </span></span>
+     </p>
+     <p class="MsoNormal">
+         <span lang="EN-US" style="mso-ansi-language:EN-US">That night we were very tired 
+         because of the long journey, but we saw a lot people in the residence listening 
+         to music and talking to each other, so we joined them in the yard of “Kamjatka”, 
+         started making friends and having fun.</span><span lang="EN-US" style="font-size:10.0pt;line-height:115%;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;
 mso-ansi-language:EN-US"><o:p></o:p></span></p>
-     <p>
-         &nbsp;</p>
      <p>
          &nbsp;</p>
      <p>
@@ -54,7 +55,7 @@ mso-ansi-language:EN-US"><o:p></o:p></span></p>
          <span lang="EN-US" style="mso-ansi-language:EN-US">Since the day I arrived here 
          everything changed. Your life here will be different; here you meet a lot of 
          interesting people from different countries, with different cultures, different 
-         habits, and especially with happiness and <span class="shorttext">
+         habits, and especially with happiness and span class="shorttext">
          <span style="background: white">wanting to party.<o:p></o:p></span></span></span></p>
      <p class="MsoNormal">
          <span class="shorttext"><span lang="EN-US" 
