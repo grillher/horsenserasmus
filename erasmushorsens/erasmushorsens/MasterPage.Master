@@ -13,8 +13,7 @@
   <div class="Main">
     <asp:ContentPlaceHolder ID="cplHeadHolder" runat="server">
       <div class="Head">     
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <img src="../Imgs/LogoErasmus.gif" class="logo" />    
+            <asp:Image ImageUrl="~/Imgs/LogoErasmus.gif" CssClass="logo" runat="server" href="/Default.aspx" />
       </div>
     </asp:ContentPlaceHolder>
     
