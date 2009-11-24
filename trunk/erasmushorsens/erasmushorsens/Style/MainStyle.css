@@ -64,7 +64,8 @@ div.BradCrumbsDiv {
 
 /* Menu -------------------------------- */
 ul.Menu {
-  list-style: none;  
+  list-style: none;
+  margin-top: -10px;  
 }
 
 ul.Menu li.MenuNode { 
@@ -89,13 +90,15 @@ ul.Menu li a {
   text-decoration: none;
   color: black;
   font-size: 1.1em;
+  font-family: Tekton Pro;
 }
 
 div.Menu h3 {
   text-align:center;  
-  margin-left: -4px;
+  margin-left: -5px;
   font-size: 1.2em;
-  font-color: 
+  color: #0036BC; 
+  font-family: Tempus Sans ITC;  
 }
 
 .logo{
