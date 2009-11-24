@@ -14,7 +14,7 @@
     <asp:ContentPlaceHolder ID="cplHeadHolder" runat="server">
       <div class="Head">     
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            <img src="../Imgs/LogoErasmus.gif" style= "width: 108px; left: 50px; height: 70px"  />    
+            <img src="../Imgs/LogoErasmus.gif" class="logo" />    
       </div>
     </asp:ContentPlaceHolder>
     
