@@ -12,8 +12,6 @@
 	  </object>
 	</p>
     <p>
-        University</p>
-    <p>
         The city is home to an abundance of educacional institucions in the form of 
         secondary education, higher education, and continuing education. Horsens has it.</p>
     <p>
