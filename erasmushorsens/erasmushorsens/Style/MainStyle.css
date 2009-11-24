@@ -108,7 +108,13 @@ div.Menu h3 {
  height: 70px;
 }
 
-.pictures{
+.pictures1{
  width: 600px; 
- height: 600px;
+ height: 450px;
 }
+
+.picturepar
+{
+	text-align:center;
+}
+	
