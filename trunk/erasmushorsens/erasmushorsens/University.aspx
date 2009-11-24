@@ -14,7 +14,7 @@
     <p>
         University</p>
     <p>
-        The coty is home to an abundance of educacional institucions in the form of 
+        The city is home to an abundance of educacional institucions in the form of 
         secondary education, higher education, and continuing education. Horsens has it.</p>
     <p>
 &nbsp;There are 15 forms of higher education based in Horsens, from teacher trainning 
@@ -31,7 +31,7 @@
     <p>
         Via is an internacional college with students from more than 60 countries. The 
         business and education sectors work closely toghether to macth students and 
-        companies. Evidence of this is the Vistus Bering Innovation Park knowledge 
+        companies. Evidence of this is the Vitus Bering Innovation Park knowledge 
         centre, which brings toghether local businesses and education. The new centre 
         taps into the synergy between entrepreurs and development-oriented established 
         companies. The Knowledge centre is a result of the constructive cooperation that 
