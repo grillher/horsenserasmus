@@ -59,6 +59,69 @@ namespace erasmushorsens {
         protected global::System.Web.UI.WebControls.ContentPlaceHolder cplMainContent;
         
         /// <summary>
+        /// DefaultNode control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl DefaultNode;
+        
+        /// <summary>
+        /// AgendaNode control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl AgendaNode;
+        
+        /// <summary>
+        /// AccomodationNode control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl AccomodationNode;
+        
+        /// <summary>
+        /// OpinionsNode control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl OpinionsNode;
+        
+        /// <summary>
+        /// PicturesNode control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl PicturesNode;
+        
+        /// <summary>
+        /// ShoppingNode control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl ShoppingNode;
+        
+        /// <summary>
+        /// UniversityNode control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl UniversityNode;
+        
+        /// <summary>
         /// cplFootHolder control.
         /// </summary>
         /// <remarks>
