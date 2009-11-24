@@ -12,12 +12,14 @@
              align="middle" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
 	  </object>
 	</p>
+	<p>
         <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" 
    	           width="800" height="100" id="FotosWeb" align="middle">
    	     <param name="movie" value="/Flash/FotosWeb.swf" />
          <param name="quality" value="high" />
            
-         <embed src="/Flash/FotosWeb.swf"  quality="high" width="800" height="100" name="FotosWeb" 
+         <embed src="/Flash/FotosWeb.swf"  quality="high" width="600" height="600" name="FotosWeb" 
              align="middle" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
 	  </object>
+	  </p>
 </asp:Content>
