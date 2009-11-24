@@ -59,7 +59,7 @@
       <div class="ContentBottom"></div>
     </div>    
     <div class="Menu">      
-      <h2>Content</h2>
+      <h3>Content</h3>
       <ul class="Menu">
         <li class="MenuNode">
           <a href="/Default.aspx">Home</a>
