@@ -22,4 +22,8 @@
              align="middle" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
 	  </object>
 	  </p>
+	  
+	  <p align="middle">
+        <asp:Image ID="University" ImageUrl="~/Imgs/picture001.jpg" CssClass="pictures" runat="server"/>
+       </p>
 </asp:Content>
