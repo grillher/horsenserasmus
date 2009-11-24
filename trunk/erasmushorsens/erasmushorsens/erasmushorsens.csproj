@@ -145,6 +145,7 @@
     <Content Include="University.aspx" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Flash\FotosWeb.swf" />
     <Content Include="Imgs\Button.png" />
     <Content Include="Imgs\ButtonActiveAllWidth.png" />
     <Content Include="Imgs\LogoErasmus.gif" />
