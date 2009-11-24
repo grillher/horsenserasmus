@@ -64,26 +64,26 @@
     <div class="Menu">      
       <h3>Content</h3>
       <ul class="Menu">
-        <li class="MenuNode">
-          <a href="/Default.aspx">Home</a>
+        <li class="MenuNode" runat="server" id="DefaultNode">
+          <a href="Default.aspx">Home</a>
         </li>
-        <li class="MenuNode">
-          <a href="/Agenda.aspx">Agenda</a>
+        <li class="MenuNode" runat="server" id="AgendaNode">
+          <a href="Agenda.aspx?Page=Agenda">Agenda</a>
         </li>
-        <li class="MenuNodeActive">
-          <a href="/Accomodation.aspx">Accomodation</a>
+        <li class="MenuNode" runat="server" id="AccomodationNode">
+          <a href="Accomodation.aspx?Page=Accomodation">Accomodation</a>
         </li>
-        <li class="MenuNode">
-          <a href="/Our_Opinion.aspx">Opinions</a>
+        <li class="MenuNode" runat="server" id="OpinionsNode">
+          <a href="Our_Opinion.aspx?Page=Opinions">Opinions</a>
         </li>
-        <li class="MenuNode">
-          <a href="/Pictures.aspx">Pictures</a>
+        <li class="MenuNode" runat="server" id="PicturesNode">
+          <a href="Pictures.aspx?Page=Pictures">Pictures</a>
         </li>
-        <li class="MenuNode">
-          <a href="/Shopping.aspx">Shopping</a>
+        <li class="MenuNode" runat="server" id="ShoppingNode">
+          <a href="Shopping.aspx?Page=Shopping">Shopping</a>
         </li>
-        <li class="MenuNode">
-          <a href="/University.aspx">University</a>
+        <li class="MenuNode" runat="server" id="UniversityNode">
+          <a href="University.aspx?Page=University">University</a>
         </li>
       </ul>
     </div>
