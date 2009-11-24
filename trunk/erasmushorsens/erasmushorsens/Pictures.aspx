@@ -14,7 +14,7 @@
 	</p>
 	<p class="picturepar">
         <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" 
-   	           width="800" height="100" id="FotosWeb" align="middle">
+   	           width="600" height="600" id="FotosWeb" align="middle">
    	     <param name="movie" value="Flash/FotosWeb.swf" />
          <param name="quality" value="high" />
            
