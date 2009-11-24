@@ -27,4 +27,12 @@
 	  <p class="picturepar">
         <asp:Image ID="University" ImageUrl="~/Imgs/picture001.jpg" CssClass="pictures1" runat="server"/>
        </p>
+       
+       	  <p class="picturepar">
+        <asp:Image ID="Image1" ImageUrl="~/Imgs/picture002.jpg" CssClass="pictures1" runat="server"/>
+       </p>
+       
+       	  <p class="picturepar">
+        <asp:Image ID="Image2" ImageUrl="~/Imgs/picture003.jpg" CssClass="pictures1" runat="server"/>
+       </p>
 </asp:Content>
