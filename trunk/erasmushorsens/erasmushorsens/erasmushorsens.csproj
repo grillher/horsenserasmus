@@ -129,10 +129,8 @@
     <Content Include="Imgs\BoxMiddle.png" />
     <Content Include="Imgs\BoxTopRoundCorners.png" />
     <Content Include="Imgs\BreadCrumb.png" />
-    <Content Include="Imgs\Button.png" />
     <Content Include="Imgs\ButtonActive.png" />
     <Content Include="Imgs\ButtonActiveAll.png" />
-    <Content Include="Imgs\ButtonActiveAllWidth.png" />
     <Content Include="Imgs\ContentBottomRoundCornes.png" />
     <Content Include="Imgs\ContentMiddle.png" />
     <Content Include="Imgs\ContentTopRoundCornes.png" />
@@ -147,6 +145,9 @@
     <Content Include="University.aspx" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Imgs\Button.png" />
+    <Content Include="Imgs\ButtonActiveAllWidth.png" />
+    <Content Include="Imgs\LogoErasmus.gif" />
     <Content Include="Web.sitemap" />
   </ItemGroup>
   <ItemGroup>
