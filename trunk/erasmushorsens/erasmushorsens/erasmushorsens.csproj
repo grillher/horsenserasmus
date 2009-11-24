@@ -149,6 +149,14 @@
     <Content Include="Imgs\Button.png" />
     <Content Include="Imgs\ButtonActiveAllWidth.png" />
     <Content Include="Imgs\LogoErasmus.gif" />
+    <Content Include="Imgs\picture001.JPG" />
+    <Content Include="Imgs\picture002.JPG" />
+    <Content Include="Imgs\picture003.JPG" />
+    <Content Include="Imgs\picture004.JPG" />
+    <Content Include="Imgs\picture005.JPG" />
+    <Content Include="Imgs\picture006.JPG" />
+    <Content Include="Imgs\picture007.JPG" />
+    <Content Include="Imgs\picture008.JPG" />
     <Content Include="Web.sitemap" />
   </ItemGroup>
   <ItemGroup>
