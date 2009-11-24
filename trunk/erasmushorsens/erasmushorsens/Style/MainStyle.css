@@ -59,7 +59,10 @@ div.BradCrumbsDiv {
   background-image: url('../Imgs/BreadCrumb.png');
   background-repeat:no-repeat;
   height: 23px;
-  width: 135px;  
+  width: 135px;
+  font-family: Arial;  
+  font-size: 0.9em;
+  padding: 0px 0px 3px 5px;
 }
 
 /* Menu -------------------------------- */
