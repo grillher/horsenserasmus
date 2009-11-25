@@ -1,46 +1,46 @@
 ﻿/* Main layout ------------------------------    */
-div.Main{  
+div.Main {
   margin: auto;
   width: 1000px;
-  background-color: white;  
+  background-color: white;
 }
 
-div.Head{  
+div.Head {
   background-color: White;
   background-image: url('../Imgs/Header.png');
   background-repeat: no-repeat;
-  height:77px;
+  height: 77px;
 }
 
-div.MainContent {  
-  float:right;  
-  width:861px;    
+div.MainContent {
+  float: right;
+  width: 861px;
   margin-bottom: 7px;
-  z-index:0;  
+  z-index: 0;
 }
 
 div.Menu {
-  margin-top: 0px;    
-  width: 139px;  
-  float: left;  
+  margin-top: 0px;
+  width: 139px;
+  float: left;
 }
 
 div.ContentTop {
   background-image: url('../Imgs/ContentTopRoundCornes.png');
   background-repeat: no-repeat;
-  height:14px;
+  height: 14px;
 }
 
-div.ContentMiddle {  
+div.ContentMiddle {
   background-image: url('../Imgs/ContentMiddle.png');
-  background-repeat:repeat-y;
-  padding: 5px 25px 7px 15px;  
+  background-repeat: repeat-y;
+  padding: 5px 25px 7px 15px;
 }
 
 div.ContentBottom {
   background-image: url('../Imgs/ContentBottomRoundCornes.png');
   background-repeat: no-repeat;
-  height:17px;
+  height: 17px;
 }
 
 div.Footer {
@@ -48,44 +48,44 @@ div.Footer {
   background-image: url('../Imgs/Footer.png');
   background-color: White;
   background-repeat: no-repeat;
-  clear:both;
+  clear: both;
 }
 
 div.BradCrumbsDiv {
-  margin: 2px 0 6px 20px;
+  margin: 2px 0 6px 0px;
 }
 
 .BradCrumb {
   background-image: url('../Imgs/BreadCrumb.png');
-  background-repeat:no-repeat;
+  background-repeat: no-repeat;
   height: 23px;
   width: 135px;
-  font-family: Arial;  
+  font-family: Arial;
   font-size: 0.9em;
-  padding: 0px 0px 3px 5px;
+  padding: 0px 0px 3px 10px;
 }
 
 /* Menu -------------------------------- */
 ul.Menu {
   list-style: none;
-  margin-top: -10px;  
+  margin-top: -10px;
 }
 
-ul.Menu li.MenuNode { 
+ul.Menu li.MenuNode {
   background-image: url('../Imgs/Button.png');
-  background-repeat:no-repeat;
-  height:41px;
-  width:166px;
+  background-repeat: no-repeat;
+  height: 41px;
+  width: 166px;
   margin: 0px 0px -5px -40px;
   padding: 7px 0px 0px 10px;
 }
 
 ul.Menu li.MenuNodeActive {
   background-image: url('../Imgs/ButtonActiveAllWidth.png');
-  background-repeat:no-repeat;
-  height:69px;
-  width:166px;
-  margin: -22px 0px -33px -42px;  
+  background-repeat: no-repeat;
+  height: 69px;
+  width: 166px;
+  margin: -22px 0px -33px -42px;
   padding: 24px 0px 0px 10px;
 }
 
@@ -97,27 +97,31 @@ ul.Menu li a {
   color: #2F3033;
 }
 
+ul.Menu li.MenuNodeActive a {
+  text-decoration: underline;
+}
+
 div.Menu h3 {
-  text-align:center;  
+  text-align: center;
   margin-left: -5px;
   font-size: 1.2em;
-  color: #0036BC; 
-  font-family: Tempus Sans ITC;  
+  color: #0036BC;
+  font-family: Tempus Sans ITC;
 }
 
-.logo{
- width: 108px; 
- margin-left: 20px;
- height: 70px;
+/* General design --------------------------- */
+.logo {
+  width: 108px;
+  margin-left: 20px;
+  height: 70px;
 }
 
-.pictures1{
- width: 600px; 
- height: 450px;
+.pictures1 {
+  width: 600px;
+  height: 450px;
 }
 
-.picturepar
-{
-	text-align:center;
+.picturepar {
+  text-align: center;
 }
-	
+
