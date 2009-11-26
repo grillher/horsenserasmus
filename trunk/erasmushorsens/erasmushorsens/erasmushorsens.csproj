@@ -139,6 +139,7 @@
   <ItemGroup>
     <Content Include="Flash\banner.swf" />
     <Content Include="Flash\FotosWeb.swf" />
+    <Content Include="Flash\HomePage.swf" />
     <Content Include="Imgs\Button.png" />
     <Content Include="Imgs\ButtonActiveAllWidth.png" />
     <Content Include="Imgs\ButtonActiveAllWidthOrange.png" />
@@ -154,6 +155,7 @@
     <Content Include="Imgs\picture006.JPG" />
     <Content Include="Imgs\picture007.JPG" />
     <Content Include="Imgs\picture008.JPG" />
+    <Content Include="Imgs\ViaPresentPicture1.png" />
     <Content Include="Web.sitemap" />
   </ItemGroup>
   <ItemGroup>

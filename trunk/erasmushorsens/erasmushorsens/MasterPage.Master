@@ -14,12 +14,12 @@
     <asp:ContentPlaceHolder ID="cplHeadHolder" runat="server">
       <div class="Head"> 
         <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" 
-   	             width="900" height="300" id="Denmark introduction" align="middle">
+   	             width="900" height="300" id="Denmark introduction">
    	       <param name="movie" value="Flash/banner.swf" />
            <param name="quality" value="high" />
              
         <embed src="Flash/banner.swf"  quality="high" width="900" height="300" name="Denmark introduction" 
-           align="middle" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+           type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
 	      </object>                
       </div>
     </asp:ContentPlaceHolder>
