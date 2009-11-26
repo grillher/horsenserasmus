@@ -43,4 +43,16 @@
         <p class="picturepar">
         <asp:Image ID="Pedestrian_Street" ImageUrl="~/Imgs/picture005.jpg" CssClass="pictures1" runat="server"/>
        </p>
+       
+       <p class="picturepar">
+        <asp:Image ID="Field" ImageUrl="~/Imgs/picture006.jpg" CssClass="pictures2" runat="server"/>
+       </p>
+       
+       <p class="picturepar">
+        <asp:Image ID="In_Odense" ImageUrl="~/Imgs/picture007.jpg" CssClass="pictures3" runat="server"/>
+       </p>
+       
+       <p class="picturepar">
+        <asp:Image ID="Before_International_Day" ImageUrl="~/Imgs/picture008.jpg" CssClass="pictures3" runat="server"/>
+       </p>
 </asp:Content>
