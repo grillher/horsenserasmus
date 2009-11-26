@@ -15,10 +15,7 @@ namespace erasmushorsens {
   public partial class MasterPage : System.Web.UI.MasterPage {
     protected void Page_Load(object sender, EventArgs e) {
       string page = Request["Page"];
-      if (page == "Agenda") {
-        AgendaNode.Attributes["class"] = "MenuNodeActive";
-      }
-      else if (page == "Accomodation") {
+      if (page == "Accomodation") {
         AccomodationNode.Attributes["class"] = "MenuNodeActive";
       }
       else if (page == "Opinions") {
