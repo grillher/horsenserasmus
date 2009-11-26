@@ -7,7 +7,7 @@ div.Main {
 
 div.Head {
   background-color: White;
-  background-image: url('../Imgs/HeaderRed.png');
+  background-image: url('../Imgs/HeaderRedOrange.png');
   background-repeat: no-repeat;
   height: 317px;
 }
@@ -72,7 +72,7 @@ ul.Menu {
 }
 
 ul.Menu li.MenuNode {
-  background-image: url('../Imgs/Button.png');
+  background-image: url('../Imgs/ButtonRed.png');
   background-repeat: no-repeat;
   height: 41px;
   width: 166px;
@@ -81,7 +81,7 @@ ul.Menu li.MenuNode {
 }
 
 ul.Menu li.MenuNodeActive {
-  background-image: url('../Imgs/ButtonActiveAllWidth.png');
+  background-image: url('../Imgs/ButtonActiveAllWidthOrange.png');
   background-repeat: no-repeat;
   height: 69px;
   width: 166px;
