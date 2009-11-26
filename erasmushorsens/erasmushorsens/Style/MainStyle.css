@@ -7,9 +7,9 @@ div.Main {
 
 div.Head {
   background-color: White;
-  background-image: url('../Imgs/Header.png');
+  background-image: url('../Imgs/HeaderRed.png');
   background-repeat: no-repeat;
-  height: 77px;
+  height: 317px;
 }
 
 div.MainContent {

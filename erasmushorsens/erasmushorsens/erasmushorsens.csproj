@@ -148,6 +148,7 @@
     <Content Include="Flash\FotosWeb.swf" />
     <Content Include="Imgs\Button.png" />
     <Content Include="Imgs\ButtonActiveAllWidth.png" />
+    <Content Include="Imgs\HeaderRed.png" />
     <Content Include="Imgs\LogoErasmus.gif" />
     <Content Include="Imgs\picture001.JPG" />
     <Content Include="Imgs\picture002.JPG" />
