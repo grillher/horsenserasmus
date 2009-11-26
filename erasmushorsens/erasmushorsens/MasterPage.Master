@@ -12,15 +12,15 @@
 <body>
   <div class="Main">
     <asp:ContentPlaceHolder ID="cplHeadHolder" runat="server">
-      <div class="Head">             
-        <noscript>
-          <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0" width="900" height="300" id="banner" align="middle">
-          <param name="allowScriptAccess" value="sameDomain" />
-          <param name="allowFullScreen" value="false" />
-          <param name="movie" value="Flash/banner.swf" /><param name="quality" value="high" /><param name="bgcolor" value="#ff0000" />	
-          <embed src="Flash/banner.swf" quality="high" bgcolor="#ff0000" width="900" height="300" name="banner" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/go/getflashplayer" />
-          </object>
-        </noscript>        
+      <div class="Head"> 
+        <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" 
+   	             width="900" height="300" id="Denmark introduction" align="middle">
+   	       <param name="movie" value="Flash/banner.swf" />
+           <param name="quality" value="high" />
+             
+        <embed src="Flash/banner.swf"  quality="high" width="900" height="300" name="Denmark introduction" 
+           align="middle" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+	      </object>                
       </div>
     </asp:ContentPlaceHolder>
     

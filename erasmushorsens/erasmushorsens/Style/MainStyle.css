@@ -7,9 +7,11 @@ div.Main {
 
 div.Head {
   background-color: White;
-  background-image: url('../Imgs/HeaderRedOrange.png');
+  background-image: url('../Imgs/HeaderRed.png');
   background-repeat: no-repeat;
   height: 317px;
+  text-align:center;  
+  padding-top:5px;
 }
 
 div.MainContent {
