@@ -174,6 +174,11 @@ p {
   font-family: Bell MT;
   color: #353535;
   text-align:justify;
+  font-size: 1.1em;
+}
+
+p.black {
+  color: Black;
 }
 
 div.Footer p {
@@ -190,9 +195,13 @@ div.Footer p.Right {
 }
 
 a:link {
-  color: #F28E0A;  
+  color: #B26810;  
 }
 
 a:visited {
-  color: #A56004;
+  color: #99471D;
+}
+
+ul li{
+  color: #353535;
 }
