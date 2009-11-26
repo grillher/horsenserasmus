@@ -26,7 +26,7 @@
     
     <asp:ContentPlaceHolder ID="cplBreadCrumbsHolder" runat="server">
       <div class="BradCrumbsDiv">
-        <asp:SiteMapPath runat="Server" ID="smpBradCrumbs" NodeStyle-CssClass="BradCrumb" NodeStyle-Width="135" PathSeparator=">>" />        
+        <asp:SiteMapPath runat="Server" ID="smpBradCrumbs" NodeStyle-CssClass="BradCrumb" NodeStyle-Width="135" PathSeparator=">> " />        
       </div>
     </asp:ContentPlaceHolder>        
         
