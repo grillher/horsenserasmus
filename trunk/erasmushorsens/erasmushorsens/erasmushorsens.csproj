@@ -144,6 +144,7 @@
     <Content Include="Imgs\ButtonActiveAllWidthOrange.png" />
     <Content Include="Imgs\ButtonActiveAllWidthRed.png" />
     <Content Include="Imgs\ButtonRed.png" />
+    <Content Include="Imgs\HeaderRed.png" />
     <Content Include="Imgs\HeaderRedOrange.png" />
     <Content Include="Imgs\LogoErasmus.gif" />
     <Content Include="Imgs\picture001.JPG" />
