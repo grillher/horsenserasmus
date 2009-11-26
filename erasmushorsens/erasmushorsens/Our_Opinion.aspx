@@ -10,9 +10,7 @@
          <embed src="Flash/Our_Opinion.swf"  quality="high" width="800" height="100" name="Our_Opinion" 
              align="middle" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
 	  </object>
-	</p>
-	<h1>Opinions</h1>
-	    
+	</p>		    
      <h2>David</h2>
      <h3>My First Day in Horsens</h3>
      <p>
