@@ -17,8 +17,7 @@ div.Head {
 div.MainContent {
   float: right;
   width: 861px;
-  margin-bottom: 7px;
-  z-index: 0;
+  margin-bottom: 7px;  
 }
 
 div.Menu {
@@ -36,7 +35,7 @@ div.ContentTop {
 div.ContentMiddle {
   background-image: url('../Imgs/ContentMiddle.png');
   background-repeat: repeat-y;
-  padding: 5px 25px 7px 15px;
+  padding: 5px 40px 7px 30px;
 }
 
 div.ContentBottom {
@@ -51,6 +50,7 @@ div.Footer {
   background-color: White;
   background-repeat: no-repeat;
   clear: both;
+  padding: 0px 30px 0px 30px;
 }
 
 div.BradCrumbsDiv {
@@ -95,8 +95,7 @@ ul.Menu li a {
   text-decoration: none;
   color: black;
   font-size: 1.1em;
-  font-family: Tekton Pro;
-  color: #2F3033;
+  font-family: Tekton Pro;  
 }
 
 ul.Menu li.MenuNodeActive a {
@@ -107,8 +106,20 @@ div.Menu h3 {
   text-align: center;
   margin-left: -5px;
   font-size: 1.2em;
-  color: #0036BC;
+  color: #A54A0C;
   font-family: Tempus Sans ITC;
+}
+
+.BradCrumb a:link {
+  text-decoration: none;  
+}
+
+.BradCrumb a:link {
+  text-decoration: none;
+}
+
+a:visited {
+	text-decoration: none;
 }
 
 /* General design --------------------------- */
@@ -137,3 +148,51 @@ div.Menu h3 {
   text-align: center;
 }
 
+/* Headings & Text ---------------------------- */
+h1 {
+  color:#A54A0C;
+  font-size: 2em;
+  margin: 0px 0px 10px 25px;
+  font-family: Tekton Pro;
+}
+
+h2 {
+  color: #C6692A;
+  font-size: 1.5em;
+  margin: 0px 0px 10px 35px;
+  font-family: Tekton Pro;
+}
+
+h3 {
+  font-size: 1.1em;  
+  color: #CE7C45;
+  margin: 0px 0px 10px 55px;
+  font-family: Segoe Print;
+}
+
+p {
+  font-family: Bell MT;
+  color: #353535;
+  text-align:justify;
+}
+
+div.Footer p {
+  color: #4C4C4C;
+  font-size: 0.9em;
+  font-family: Arial;
+  display: inline;  
+  float:left;
+}
+
+div.Footer p.Right {
+  text-align:right;
+  float:right;  
+}
+
+a:link {
+  color: #F28E0A;  
+}
+
+a:visited {
+  color: #A56004;
+}

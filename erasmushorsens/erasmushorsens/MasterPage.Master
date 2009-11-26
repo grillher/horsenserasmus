@@ -91,7 +91,13 @@
     </div>
     
     <asp:ContentPlaceHolder ID="cplFootHolder" runat="server">
-      <div class="Footer">        
+      <div class="Footer">
+        <p>
+          Created by Antonio, Ondrej, Francisco and David
+        </p>
+        <p class="Right">
+          Supported by VIA University College
+        </p>
       </div>
     </asp:ContentPlaceHolder>
     
