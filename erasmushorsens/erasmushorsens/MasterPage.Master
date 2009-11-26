@@ -67,9 +67,7 @@
         <li class="MenuNode" runat="server" id="DefaultNode">
           <a href="Default.aspx">Home</a>
         </li>
-        <!-- <li class="MenuNode" runat="server" id="AgendaNode">
-          <a href="Agenda.aspx?Page=Agenda">Agenda</a>
-        </li>-->
+
         <li class="MenuNode" runat="server" id="AccomodationNode">
           <a href="Accomodation.aspx?Page=Accomodation">Accomodation</a>
         </li>
