@@ -27,16 +27,16 @@
         beautifully decorated streets.</p>
     <p>
         As for supermarkets, there are several options between we emphasize:</p>
-    <p>
-        - Netto, the cheapest one but it doesn&#39;t have many products.</p>
-    <p>
-        - Bilka, the biggest one and it has a lot of procucts and offers.</p>
-    <p>
-        - Lojvers, there is one Lojvers in the main square, but it&#39;s a bit more 
-        expensive.</p>
-    <p>
-        - Fakta, there the meat is cheaper and it&#39;s the best option if you live in the 
-        Student Village.</p>
+      <ul>
+        <li>Netto, the cheapest one but it doesn&#39;t have many products.</li>  
+        <li>Bilka, the biggest one and it has a lot of procucts and offers.</li>    
+        <li>Lojvers, there is one Lojvers in the main square, but it&#39;s a bit more 
+        expensive.</li>
+    
+        <li>Fakta, there the meat is cheaper and it&#39;s the best option if you live in the 
+        Student Village.</li>
+      </ul>
+    </p>
     <p>
         &nbsp;</p>
     &nbsp;<p>
