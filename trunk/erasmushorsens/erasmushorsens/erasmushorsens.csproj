@@ -64,13 +64,6 @@
     <Compile Include="Accomodation.aspx.designer.cs">
       <DependentUpon>Accomodation.aspx</DependentUpon>
     </Compile>
-    <Compile Include="Agenda.aspx.cs">
-      <DependentUpon>Agenda.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Agenda.aspx.designer.cs">
-      <DependentUpon>Agenda.aspx</DependentUpon>
-    </Compile>
     <Compile Include="Default.aspx.cs">
       <SubType>ASPXCodeBehind</SubType>
       <DependentUpon>Default.aspx</DependentUpon>
@@ -118,7 +111,6 @@
   <ItemGroup>
     <Content Include="Flash\accommodation.swf" />
     <Content Include="Accomodation.aspx" />
-    <Content Include="Agenda.aspx" />
     <Content Include="App_Data\shopping.gif" />
     <Content Include="Flash\Agenda.swf" />
     <Content Include="Flash\Our_Opinion.swf" />
